@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "studygroup-v3@antigravity-ai.com": {
+      "updates": [
+        {
+          "version": "3.5.0",
+          "update_link": "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
+          "update_hash": "sha512:31266a4a67bc76bda8bdcc29914d1ba6d84ce67ea22ee17ab16937bb4c8b0c361b123aa85c0e0ee2c58123377d1da0aac440ae10c772011ce7ddc6574bad165e",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "9.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
