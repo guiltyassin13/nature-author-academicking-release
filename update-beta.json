@@ -1,19 +1,19 @@
-﻿{
-    "addons":  {
-                   "studygroup-v3@antigravity-ai.com":  {
-                                                            "updates":  [
-                                                                            {
-                                                                                "version":  "3.5.13-manual-sync-time",
-                                                                                "update_link":  "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
-                                                                                "update_hash":  "sha512:cf6b6cd7682d8620c4e73448749b1f9e9ffb7a4b0d345519e7a380ac628fcb15e1eeb3b06cb394b54a4c72a09970455c510f675fdc447132bf8cb487885dc6c1",
-                                                                                "applications":  {
-                                                                                                     "zotero":  {
-                                                                                                                    "strict_min_version":  "6.999",
-                                                                                                                    "strict_max_version":  "9.*"
-                                                                                                                }
-                                                                                                 }
-                                                                            }
-                                                                        ]
-                                                        }
-               }
+{
+  "addons": {
+    "studygroup-v3@antigravity-ai.com": {
+      "updates": [
+        {
+          "version": "3.5.21-recent-zero-backfill",
+          "update_link": "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
+          "update_hash": "sha512:4156bf93bb56e4cc003d93457a0773f01555535c1e726c2a2c4438af0143abad2805c5caf2e7ba57fc65ba6efc4cc85f90fee9b1ef9c0f21762ca780007a4206",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "9.*"
+            }
+          }
+        }
+      ]
+    }
+  }
 }
