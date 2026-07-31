@@ -2,12 +2,11 @@
 
 这个公开仓库只用于发布 Zotero 插件安装包和自动更新文件。
 
-当前推荐版本：3.5.21-recent-zero-backfill
+当前推荐版本：3.5.29-report-selector-polish
 
 ## 文件说明
 
-- 
-ature-author-academic-center.xpi：当前最新插件安装包
+- nature-author-academic-center.xpi：当前最新插件安装包
 - update.json：Zotero 自动更新配置
 - update-beta.json：备用自动更新配置
 
@@ -17,8 +16,7 @@ ature-author-academic-center.xpi：当前最新插件安装包
 
 工具 -> 插件 -> 齿轮 -> Install Plugin From File...
 
-然后选择 
-ature-author-academic-center.xpi。
+然后选择 nature-author-academic-center.xpi。
 
 已经安装 3.5.x 的用户，可以在 Zotero 插件管理器里点击：
 
@@ -37,8 +35,11 @@ ature-author-academic-center.xpi。
 
 用户数据保存在你配置的 Supabase 项目里，不在 GitHub 里。
 
-## v3.5.21 更新内容
+## v3.5.29 更新内容
 
-- 修复日期偏移问题，避免把昨天算错日期
-- 支持最多补最近 30 天缺失的 0 分钟历史记录
-- 保持稳定策略：不启用后台半小时同步，不做重型历史批量回填
+- 新增“我的账号”，支持在新设备恢复同一身份
+- 阅读时间改为账号总时间与多设备增量累加，避免设备之间互相覆盖
+- 历史状态增加当天最多阅读文献
+- 新增七月月报，并保留六月历史月报
+- 月报入口升级为最新报告与历史月份组合菜单
+- 优化过去七天历史卡片和七月个人月度卡

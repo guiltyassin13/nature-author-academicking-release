@@ -1,19 +1,19 @@
 {
-  "addons": {
-    "studygroup-v3@antigravity-ai.com": {
-      "updates": [
-        {
-          "version": "3.5.22-june-report-icon",
-          "update_link": "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
-          "update_hash": "sha512:5265162c2e40cefa14886763b29a809311bcd0aa5ef6c46517560311965721c3a94d5fdf9d17c605dc99bcc48d7468e2ccea8fd56c1d6bb6b7235f5345dc209d",
-          "applications": {
-            "zotero": {
-              "strict_min_version": "6.999",
-              "strict_max_version": "9.*"
-            }
-          }
-        }
-      ]
-    }
-  }
+    "addons":  {
+                   "studygroup-v3@antigravity-ai.com":  {
+                                                            "updates":  [
+                                                                            {
+                                                                                "version":  "3.5.29-report-selector-polish",
+                                                                                "update_link":  "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
+                                                                                "update_hash":  "sha512:272f14ff4a71157c3a05dbdf22f22b53d66647156f21a6d4721b8cc5819cd40eb08e7ef841299add21937c2012bbcfe2e9cd602600d1f8a08db83b308b8c9188",
+                                                                                "applications":  {
+                                                                                                     "zotero":  {
+                                                                                                                    "strict_min_version":  "6.999",
+                                                                                                                    "strict_max_version":  "9.*"
+                                                                                                                }
+                                                                                                 }
+                                                                            }
+                                                                        ]
+                                                        }
+               }
 }
