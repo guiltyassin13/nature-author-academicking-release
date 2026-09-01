@@ -3,9 +3,9 @@
                    "studygroup-v3@antigravity-ai.com":  {
                                                             "updates":  [
                                                                             {
-                                                                                "version":  "3.5.29-report-selector-polish",
+                                                                                "version":  "3.6.0",
                                                                                 "update_link":  "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
-                                                                                "update_hash":  "sha512:272f14ff4a71157c3a05dbdf22f22b53d66647156f21a6d4721b8cc5819cd40eb08e7ef841299add21937c2012bbcfe2e9cd602600d1f8a08db83b308b8c9188",
+                                                                                "update_hash":  "sha512:5dd3ef3c2e4ab2e29f5e0cf2d37a8a4a1d1b52bb33bc24b10099fea4a588dad387c9515554f3005a0951a49c481c653a70b25b63fcc5db731ea5d9b6e3afdfcc",
                                                                                 "applications":  {
                                                                                                      "zotero":  {
                                                                                                                     "strict_min_version":  "6.999",
