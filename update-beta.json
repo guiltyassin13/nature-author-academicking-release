@@ -1,19 +1,19 @@
 {
-    "addons":  {
-                   "studygroup-v3@antigravity-ai.com":  {
-                                                            "updates":  [
-                                                                            {
-                                                                                "version":  "3.6.1",
-                                                                                "update_link":  "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
-                                                                                "update_hash":  "sha512:fb8e7d47a84539d59aca531feff633dc99408f663dd6b85c11967d92990f87f518cd71ace189a3e0bce4ec692659f267095eb4d2987199e08d7ed265645927e6",
-                                                                                "applications":  {
-                                                                                                     "zotero":  {
-                                                                                                                    "strict_min_version":  "6.999",
-                                                                                                                    "strict_max_version":  "10.0.*"
-                                                                                                                }
-                                                                                                 }
-                                                                            }
-                                                                        ]
-                                                        }
-               }
+  "addons": {
+    "studygroup-v3@antigravity-ai.com": {
+      "updates": [
+        {
+          "version": "3.6.3",
+          "update_link": "https://raw.githubusercontent.com/guiltyassin13/nature-author-academicking-release/main/nature-author-academic-center.xpi",
+          "update_hash": "sha512:cb21db0ce14c8f5027f5cc3a355bedfc8a0892e5b798c5a73d6ce4a749af1c95baf3002f4b37959897c89d0c979df9289f0871cef5b4eaa0cc5f0d08fa6085f1",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "10.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
 }
